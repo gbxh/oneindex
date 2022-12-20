@@ -7,14 +7,14 @@
 			<?php e(config('site_name'));?> - 私人云服务</title>
 		<!--引入字体，全局字体使用-->
 		<link rel="stylesheet" href="https://npm.elemecdn.com/lxgw-wenkai-webfont@1.1.0/lxgwwenkai-regular.css" />
-		<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/gbxh/oneindex/theme/favicon.ico">
+		<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/gbxh/oneindex@2.0/theme/favicon.ico">
 		<link rel="stylesheet" href="//cdnjs.loli.net/ajax/libs/mdui/0.4.1/css/mdui.css">
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gbxh/oneindex/theme/style.css">
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gbxh/oneindex/theme/gbxh.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gbxh/oneindex@2.0/theme/style.css">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/gbxh/oneindex@2.0/theme/gbxh.css">
 		<!-- Font6，自定义底部使用和看板娘使用的图标和字体文件-->
 		<link type='text/css' rel="stylesheet" href="https://npm.elemecdn.com/font6pro@6.0.1/css/fontawesome.min.css" media='all'>
 		<link href="https://npm.elemecdn.com/font6pro@6.0.1/css/all.min.css" rel="stylesheet">
-		<script src="//cdn.jsdelivr.net/gh/gbxh/oneindex/theme/mdui.min.js"></script>
+		<script src="//cdn.jsdelivr.net/gh/gbxh/oneindex@2.0/theme/mdui.min.js"></script>
 		<style>
 			/*底部CSS，.APP .tanle这三个一起的*/
 			dibu {
@@ -155,7 +155,7 @@
 			<br />
 		</div>
 		<script src="https://cdn.jsdelivr.net/npm/pjax/pjax.js"></script>
-		<script src="https://cdn.jsdelivr.net/gh/gbxh/oneindex/theme/gbxh.js"></script>
+		<script src="https://cdn.jsdelivr.net/gh/gbxh/oneindex@2.0/theme/gbxh.js"></script>
 		<!--一言API-->
 		<script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>
 	</body>
