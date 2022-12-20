@@ -142,7 +142,7 @@
 					</span>
 					<!--版权，请尊重作者-->
 					<span class="nav-item">
-						<a class="nav-link" href="https://github.com/donwa/oneindex" target="_blank">
+						<a class="nav-link" href="https://github.com/gbxh/oneindex" target="_blank">
 							<i class="fa-solid fa-copyright" style="color:#35b995;" aria-hidden="true">
 							</i>
 							由Oneindex驱动
