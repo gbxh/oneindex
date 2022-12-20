@@ -16,13 +16,18 @@
 
 使其具备的特性有：
 
-- 布局、颜色调整
+- 布局、颜色调整by [Zisbusy](https://github.com/Zisbusy)
+- 全局字体换为霞鹜文楷
 - 加入Aplayer网页播放器，[**我的歌单**](https://music.163.com/playlist?id=7671378245)（当然也可以换成你自己的）
 - **引入PJAX，可以在不刷新网页的情况下更新页面内容，从而不打断播放器**
 - 底部6个友链（当然也可以换成你自己的）
 
-#### 2.修复Material主题上面多个"?"的强迫症问题
+#### 2.修复Material主题上面有个"?"的强迫症问题
 
 ## 已知Bug
 
 如果jsdelivr抽风了，就把那几个用到我仓库的CDN链接的css和js换成相对链接或你网站绝对链接就行，反正我不用jsdelivr（我所在的地区的墙比较高）
+
+## 用到的项目
+
+[Oneindex（已删库）](https://github.com/donwa/Oneindex)，[OneindexN](https://github.com/xieqifei/OneindexN)，[PJAX](https://github.com/MoOx/pjax)，[OneIndex-theme](https://github.com/Zisbusy/OneIndex-theme)，[APlayer](https://github.com/DIYgod/APlayer)，[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
