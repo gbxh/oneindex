@@ -30,4 +30,5 @@
 
 ## 用到的项目
 
-[Oneindex（已删库）](https://github.com/donwa/Oneindex)，[OneindexN](https://github.com/xieqifei/OneindexN)，[PJAX](https://github.com/MoOx/pjax)，[OneIndex-theme](https://github.com/Zisbusy/OneIndex-theme)，[APlayer](https://github.com/DIYgod/APlayer)，[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
+[Oneindex（已删库）](https://github.com/donwa/Oneindex)，[OneindexM](https://github.com/Mintimate/OneindexM)，[OneindexN](https://github.com/xieqifei/OneindexN)，[PJAX](https://github.com/MoOx/pjax)，[OneIndex-theme](https://github.com/Zisbusy/OneIndex-theme)，[APlayer](https://github.com/DIYgod/APlayer)，[霞鹜文楷](https://github.com/lxgw/LxgwWenKai)
+
